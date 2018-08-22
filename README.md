@@ -8,7 +8,7 @@
 
 ### 见钱包[AwcWallet](http://awc.artbchain.io)
 
-### 源码见[AwcWallet source code](https://github.com/agangdi/AnimalWorldCoin)
+### 源码见[AwcWallet source code](https://github.com/agangdi/AwcWallet)
 
 # 许可
 
@@ -22,7 +22,7 @@ A smart contract based on ethereum blockchain, implement an animal world game, U
 
 ### go [AwcWallet](http://awc.artbchain.io)
 
-### See [AwcWallet source code](https://github.com/agangdi/AnimalWorldCoin)
+### See [AwcWallet source code](https://github.com/agangdi/AwcWallet)
 
 # License
 -------
